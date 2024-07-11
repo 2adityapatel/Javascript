@@ -44,3 +44,5 @@ function fact(num)               //fact = means factorial (name of function)
     }
 }
 fact(6);
+
+//
